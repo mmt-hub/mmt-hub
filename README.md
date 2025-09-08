@@ -14,4 +14,4 @@
   （3）学会将用户需求转化为技术文档。
   
 4.博客园后台截图
-
+<img width="2116" height="1238" alt="Image" src="https://github.com/user-attachments/assets/553039a0-6a72-4dbc-be32-fe4fb5f32181" />
